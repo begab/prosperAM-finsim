@@ -4,6 +4,6 @@ The sparse embeddings were created using our earlier work the source code of whi
 
 The submitted predictions can be reproduced by invoking:
 
-    python sparse sparse_approach.py
+    python sparse_approach.py
 
 
