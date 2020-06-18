@@ -1,0 +1,14 @@
+[
+  {
+    "term": "equity",
+    "label": "share"
+  },
+  {
+    "term": "common shares",
+    "label": "common share"
+  },
+  {
+    "term": "OTC securities",
+    "label": "unlisted bond"
+  }
+]
